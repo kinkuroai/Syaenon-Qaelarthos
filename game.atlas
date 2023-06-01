@@ -4,9 +4,23 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-BuildingIcons/Hellbent Palace
+BuildingIcons/Citadel
   rotate: false
   xy: 4, 524
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+BuildingIcons/Hellbent Palace
+  rotate: false
+  xy: 524, 1044
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+BuildingIcons/Necropolis
+  rotate: false
+  xy: 4, 4
   size: 512, 512
   orig: 512, 512
   offset: 0, 0
@@ -18,49 +32,55 @@ NationIcons/Aetheria
   orig: 512, 512
   offset: 0, 0
   index: -1
-NationIcons/Vexthorin
-  rotate: false
-  xy: 1044, 524
-  size: 512, 512
-  orig: 512, 512
-  offset: 0, 0
-  index: -1
-NationIcons/Zul'Goth
-  rotate: false
-  xy: 1044, 4
-  size: 512, 512
-  orig: 512, 512
-  offset: 0, 0
-  index: -1
 ReligionIcons/Stellarianism
-  rotate: false
-  xy: 4, 4
-  size: 512, 512
-  orig: 512, 512
-  offset: 0, 0
-  index: -1
-ReligionIcons/The Obsidian Creed
   rotate: false
   xy: 1044, 1044
   size: 512, 512
   orig: 512, 512
   offset: 0, 0
   index: -1
-UnitIcons/Sagittarius
+ReligionIcons/The Obsidian Creed
   rotate: false
-  xy: 524, 1044
+  xy: 1044, 524
   size: 512, 512
   orig: 512, 512
   offset: 0, 0
   index: -1
-UnitIcons/The Judicator
+UnitIcons/Sagittarius
   rotate: false
   xy: 524, 524
   size: 512, 512
   orig: 512, 512
   offset: 0, 0
   index: -1
+UnitIcons/The Judicator
+  rotate: false
+  xy: 524, 4
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
 UnitIcons/The Overseer
+  rotate: false
+  xy: 1044, 4
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+
+game2.png
+size: 2048, 1024
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+NationIcons/Vexthorin
+  rotate: false
+  xy: 4, 4
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+NationIcons/Zul'Goth
   rotate: false
   xy: 524, 4
   size: 512, 512

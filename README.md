@@ -1,3 +1,5 @@
+![Screenshot](https://images2.imgbox.com/d5/be/JfQXWw0m_o.png)
+
 # INTRODUCTION
  Syaenon Qaelarthos - or __SQ__ - is an experimental ruleset for the game [Unciv](https://github.com/yairm210/Unciv).
 
