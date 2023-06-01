@@ -1,0 +1,150 @@
+[
+    // Spectator
+    {
+		"name": "Spectator",
+		"outerColor": [255,255,255]
+        //"innerColor": [255,255,255]
+	},
+
+    // Aetheria
+    {
+        "name": "Aetheria",
+        "leaderName": "Deimos",
+        "adjective": ["Aetherian"],
+        "preferredVictoryType": "Dominion",
+
+        "startIntroPart1": "Vohu alar donashe baltoh, vohim haeasah voh baltoh. Vohu Deimos - dax heth alar heth omega.",
+        "startIntroPart2": "- I am the God of the Heavens, the Creator of this World. I am Deimos - the alpha and the omega. -",
+
+        "declaringWar": "Lesser beings. You will be annihilated.",
+        "attacked": "You dare attack the Gods?",
+        "defeated": "The Gods have died. The end is coming.",
+        "introduction": "I am Deimos, the Creator.",
+
+        "neutralHello": "What is it?",
+        "neutralLetsHearIt": ["I give you permission to speak."],
+		"neutralNo": ["The Gods refuse."],
+		"neutralYes": ["The Gods agree."],
+        
+        "hateHello": "Lesser Being.",
+        "hateLetsHearIt": ["I give you, lesser being, to speak."],
+		"hateNo": ["No."],
+		"hateYes": ["For now."],
+        
+        "afterPeace": "We accept.",
+        "tradeRequest": "Rejoice, for I have a deal.",
+
+        "outerColor": [9, 112, 84],
+        "innerColor": [255, 255, 255],
+
+        "favouredReligion": "Stellarianism",
+        "uniqueName": "The Gods",
+        "uniques": ["Great General provides double combat bonus", "[999] XP gained from combat", "[3] additional attacks per turn"],
+        "cities": ["Astralis", "Celestia", "Stellara", "Lunaire", "Solara", "Nova City", "Galaxia", "Orionis", "Nebulae", "Aetheria"],
+        
+        "civilopediaText": [
+            {
+                "text": "The Celestial Kingdom of Aetheria",
+                "header": 1,
+                "starred": true
+            },
+            {
+                "text": "In the vast expanse of the cosmos, nestled within the ethereal realms, lies the Celestial Kingdom of Aetheria. Born from the harmonious convergence of celestial energies and the dreams of ancient cosmic beings, Aetheria emerged as a realm of immense beauty and mystical wonder."
+            }
+        ]
+    },
+    // Vexthorin
+    {
+        "name": "Vexthorin",
+        "leaderName": "Morvath",
+        "adjective": ["Vex"],
+        "preferredVictoryType": "Dominion",
+
+        "startIntroPart1": "Dorlakar nethis morthesh vaeldrinathar..",
+        "startIntroPart2": "- We shall find once more what we have lost.. -",
+
+        "declaringWar": "To sacrifice life.. It brings us closer to what we have lost..",
+        "attacked": "You think we die? We are immortal in both life and death..",
+        "defeated": "We shall return..",
+        "introduction": "I am Morvath, the Queen of Vexthorin.",
+
+        "neutralHello": "Hello.",
+        "neutralLetsHearIt": ["If it is, it shall be."],
+		"neutralNo": ["No."],
+		"neutralYes": ["Yes."],
+        
+        "hateHello": "I hear the cries of your damned.",
+        "hateLetsHearIt": ["Make it quick."],
+		"hateNo": ["No."],
+		"hateYes": ["Yes."],
+        
+        "afterPeace": "We prefer a massacre.",
+        "tradeRequest": "Krunak.",
+
+        "outerColor": [127, 0, 255],
+        "innerColor": [255, 255, 255],
+
+        "favouredReligion": "Cult of Eternal Shadows",
+        "uniqueName": "Undead Elves",
+        "uniques": ["Great General provides double combat bonus", "[999] XP gained from combat", "[3] additional attacks per turn"],
+        "cities": ["Nephralis", "Cimmeria", "Stygianreach", "Sepulchra", "Mortenspire"],
+        
+        "civilopediaText": [
+            {
+                "text": "The Necropolis of Vexthorin",
+                "header": 1,
+                "starred": true
+            },
+            {
+                "text": "In the ancient Elven realm of Elysia, a forbidden experiment gone wrong led to the creation of the Undead Elves. Morvath, the last surviving Elven sorcerer, now leads the cursed race known as Vexthorin. They dwell in the Necropolis, a city of bone and decay, where they seek to conquer the world and regain their lost immortality. The Cult of Eternal Shadows, their religion, worships the darkness and embraces the eternal cycle of life and death."
+            }
+        ]
+    },
+    // Zul'Goth
+    {
+        "name": "Zul'Goth",
+        "leaderName": "Vex'Zara",
+        "adjective": ["Zuls"],
+        "preferredVictoryType": "Dominion",
+
+        "startIntroPart1": "Vorgrathesh zalzarath!",
+        "startIntroPart2": "- Reign in terror! -",
+
+        "declaringWar": "Burn it all!",
+        "attacked": "You die!",
+        "defeated": "I will crush you!",
+        "introduction": "I am Vex'Zara! The strongest warrior of all Demonkin!",
+
+        "neutralHello": "Hm?",
+        "neutralLetsHearIt": ["What?"],
+		"neutralNo": ["No."],
+		"neutralYes": ["Yes."],
+        
+        "hateHello": "Be careful.",
+        "hateLetsHearIt": ["Is it worthwhile?."],
+		"hateNo": ["No."],
+		"hateYes": ["Yes."],
+        
+        "afterPeace": "The Zul'Goth pride will hunt you down.",
+        "tradeRequest": "We prefer to crush you.",
+
+        "outerColor": [255, 51, 51],
+        "innerColor": [255, 255, 255],
+
+        "favouredReligion": "Infernal Pact",
+        "uniqueName": "Demonkin",
+        "uniques": ["Great General provides double combat bonus", "[999] XP gained from combat", "[3] additional attacks per turn"],
+        "cities": ["Pyrothorn", "Gehenna", "Shadowflame", "Infernasca", "Abyssal Citadel"],
+        
+        "civilopediaText": [
+            {
+                "text": "The Infernal Citadel of Zul'Goth",
+                "header": 1,
+                "starred": true
+            },
+            {
+                "text": "Zul'Goth is a civilization of Demonkin, descendants of demons and mortal beings. Vex'Zara, a powerful sorceress, rules over the fiery city known as the Infernal Citadel. The Zul'Goth seek to spread chaos and corruption, harnessing dark magic and demonic forces to dominate the realms and bring about the age of darkness. The Infernal Pact is their religion, based on making pacts with demonic entities in exchange for power and favor."
+            }
+        ]
+    }
+]
