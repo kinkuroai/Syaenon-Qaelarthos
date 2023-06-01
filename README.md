@@ -1,8 +1,12 @@
 # INTRODUCTION
-HBS-Unciv is a bit of a __cheat mod__. It explicitly gives you an advantage in the game. I would advise staying away from this mod if you do not wish to ruin your gaming experience.
+ Syaenon Qaelarthos - or __SQ__ - is an experimental ruleset for the game [Unciv](https://github.com/yairm210/Unciv).
+
+ SQ is currently a work in progress and I would advise you to stay away from it at the moment as it is still in its baby stages. Although you can try it if you want at this state.
+
+ Suggestions are welcome!
 
 ## NOTES
-Originally, SQ was a __cheat mod__ called `HBS-Unciv` but decided to rework the mod and turn it into a ruleset. This mod __aims to create total chaos__ as civs will be made powerful enough to f* each other. This mod contains overpowered civs and aims to clash them together to create total chaos - that is the plan anyway.
+Originally, SQ was a __cheat mod__ called `HBS-Unciv` but decided to rework the mod and turn it into a ruleset. This mod __aims to create total chaos__ as civs will be made powerful enough to f* each other.
 
 __THIS IS A WORK IN PROGRESS__
 
@@ -20,10 +24,6 @@ __THIS IS A WORK IN PROGRESS__
 - [x] Unique Religions
 - [ ] Unique God Techs
 
-
 # NEED HELP
 - [ ] Unique Sprites for the units
 - [ ] Custom music/sfx
-
-# SUGGESTIONS
-Suggestions are welcome! Open an issue and let's go from there.
