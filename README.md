@@ -24,7 +24,11 @@ __THIS IS A WORK IN PROGRESS__
 - [x] Custom Icons
 - [x] Unique God Units
 - [x] Unique Religions
+- [ ] Add more Global Uniques
+- [ ] Custom TileImprovements and TileResources
+- [ ] Custom Terrains
 - [ ] Unique God Techs
+- [ ] Complete Civilopedia entries
 
 # NEED HELP
 - [ ] Unique Sprites for the units

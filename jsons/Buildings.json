@@ -49,7 +49,7 @@
     },
 	{
         // Zul'Goth Buildings
-        "name": "Citadel",
+        "name": "Zul'Citadel",
 		"uniqueTo": "Zul'Goth",
 		"replaces": "Palace",
 		"production": 5,
@@ -68,6 +68,30 @@
             },
             {
                 "text": "Resting place of Zul'Goth."
+            }
+        ]
+    },
+	{
+        // Zephyrion Buildings
+        "name": "Whisper Palace",
+		"uniqueTo": "Zephyrion",
+		"replaces": "Palace",
+		"production": 5,
+		"science": 3,
+		"culture": 5,
+		"food": 2,
+		"gold": 500,
+		"cityStrength": 5,
+        "cost": 1,
+		"uniques": ["Indicates the capital city"],
+        "civilopediaText": [
+            {
+                "text": "Syaenon Qaelarthos",
+                "header": 1,
+                "starred": true
+            },
+            {
+                "text": "Resting place of Zephyrion."
             }
         ]
     },

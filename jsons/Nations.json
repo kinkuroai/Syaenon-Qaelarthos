@@ -146,5 +146,261 @@
                 "text": "Zul'Goth is a civilization of Demonkin, descendants of demons and mortal beings. Vex'Zara, a powerful sorceress, rules over the fiery city known as the Infernal Citadel. The Zul'Goth seek to spread chaos and corruption, harnessing dark magic and demonic forces to dominate the realms and bring about the age of darkness. The Infernal Pact is their religion, based on making pacts with demonic entities in exchange for power and favor."
             }
         ]
+    },
+    // Zephyrion
+    {
+        "name": "Zephyrion",
+        "leaderName": "Eolande",
+        "adjective": "Zephyrs",
+        "preferredVictoryType": "Dominion",
+    
+        "startIntroPart1": "The Whispermelds are a ethereal race, their bodies semi-translucent, and they communicate through gusts of wind.",
+        "startIntroPart2": "Zephyrion, their civilization, is hidden within the dense, mist-shrouded forests. Eolande, their leader, whispers commands into the wind, which carries them to his followers.",
+    
+        "declaringWar": "The unworthy shall perish!",
+        "attacked": "You dare attack us?",
+        "defeated": "We have fallen.",
+        "introduction": "I am Eolande the Silent Whisper!",
+    
+        "neutralHello": "Hello.",
+        "neutralLetsHearIt": "Alright, go on.",
+        "neutralNo": "No.",
+        "neutralYes": "Yes.",
+    
+        "hateHello": "Speak.",
+        "hateLetsHearIt": "Go on.",
+        "hateNo": "You scum.",
+        "hateYes": "Okay.",
+    
+        "afterPeace": "Zuruthal..",
+        "tradeRequest": "We could both benefit from it.",
+    
+        "outerColor": [255, 0, 0],
+        "innerColor": [255, 255, 255],
+    
+        "favouredReligion": "Cult of the Midnight Gale",
+        "uniqueName": "Whispermelds",
+        "uniques": ["Great General provides double combat bonus", "[999] XP gained from combat", "[3] additional attacks per turn"],
+        "cities": ["Windshroud Hold", "Whispering Glade", "Zephyr's Rest", "Galedeep Hollow", "Breezesong Spire"]
+    },
+    // Vorgaia
+    {
+        "name": "Vorgaia",
+        "leaderName": "Queen Maledra",
+        "adjective": "Vorgaian",
+        "preferredVictoryType": "Domination",
+    
+        "startIntroPart1": "You are Queen Maledra, ruler of the deep caverns,",
+        "startIntroPart2": "guide of the hardy Obsidions. Lead your people to expand their underground domain.",
+    
+        "declaringWar": "The echoes of war resound in our caves.",
+        "attacked": "Like the strongest stone, we will resist this violation!",
+        "defeated": "The caves crumble... Vorgaia falls...",
+        "introduction": "I am Maledra, Queen of the Obsidions and ruler of the caves of Vorgaia.",
+    
+        "neutralHello": "Hail, traveler of the upper world.",
+        "neutralLetsHearIt": "Our caves carry your words. Speak.",
+        "neutralNo": "Our stones stand firm in opposition.",
+        "neutralYes": "The stones whisper agreement.",
+    
+        "hateHello": "Your presence is a cave-in.",
+        "hateLetsHearIt": "Speak, but know our stones may fall deaf.",
+        "hateNo": "The caverns echo refusal.",
+        "hateYes": "Against our stalactite's judgment, we consent.",
+    
+        "afterPeace": "Peace is as solid as our stalagmites.",
+        "tradeRequest": "Our tunnels have carried a proposition to you.",
+    
+        "outerColor": [105, 105, 105],
+        "innerColor": [255, 255, 255],
+    
+        "favouredReligion": "Order of the Obsidian Heart",
+        "uniqueName": "Obsidions",
+        "uniques": [],
+        "cities": ["Stonehearth", "Obsidian Hall", "Deep Echo", "Stalagmite Throne", "Glowing Grotto"]
+    },
+    // Ebonreach
+    {
+        "name": "Ebonreach",
+        "leaderName": "Lord Nocturnus",
+        "adjective": "Ebon",
+        "preferredVictoryType": "Diplomatic",
+    
+        "startIntroPart1": "You are Lord Nocturnus, the enigmatic shadow,",
+        "startIntroPart2": "leader of the elusive Nightkind. Guide your people from the twilight to dominance.",
+    
+        "declaringWar": "The twilight darkens with the threat of war.",
+        "attacked": "We are the night, we will not be consumed!",
+        "defeated": "The twilight fades... Ebonreach falls into dawn...",
+        "introduction": "I am Nocturnus, Lord of Ebonreach, where the twilight never ends.",
+    
+        "neutralHello": "A shadow greets you.",
+        "neutralLetsHearIt": "The twilight waits for your words.",
+        "neutralNo": "Our shadows reject your proposition.",
+        "neutralYes": "The twilight accepts your words.",
+    
+        "hateHello": "Your presence brightens our perfect twilight.",
+        "hateLetsHearIt": "Speak, but know the night may swallow your words.",
+        "hateNo": "The night chokes out your request.",
+        "hateYes": "Against the twilight's judgment, we accept.",
+    
+        "afterPeace": "The twilight is serene after the darkness of war.",
+        "tradeRequest": "The twilight brings a proposition to you.",
+    
+        "outerColor": [25, 25, 112],
+        "innerColor": [255, 255, 255],
+    
+        "favouredReligion": "Sect of the Ebon Flame",
+        "uniqueName": "Nightkind",
+        "uniques": [],
+        "cities": ["Shadowhold", "Dusk's Embrace", "Twilight Spire", "Ebondeep", "Nocturne's Rest"]
+    },
+    // Ironvein
+    {
+        "name": "Ironvein",
+        "leaderName": "Chancellor Ferro",
+        "adjective": "Ferran",
+        "preferredVictoryType": "Scientific",
+    
+        "startIntroPart1": "You are Chancellor Ferro, the ironclad leader,",
+        "startIntroPart2": "ruler of the industrious Ferran. Harness the heart of your molten world to progress beyond the others.",
+    
+        "declaringWar": "Our forges burn brighter with the onset of war.",
+        "attacked": "We are iron, we will not bend!",
+        "defeated": "Our fires die out... Ironvein goes cold...",
+        "introduction": "I am Ferro, Chancellor of Ironvein, where our hearts are as strong as iron.",
+    
+        "neutralHello": "Greetings, wanderer.",
+        "neutralLetsHearIt": "Our forges are ready to hear your words.",
+        "neutralNo": "Our iron will stands against you.",
+        "neutralYes": "The fires of agreement burn brightly.",
+    
+        "hateHello": "Your presence rusts our perfect harmony.",
+        "hateLetsHearIt": "Speak, but know your words may cool our forges.",
+        "hateNo": "Our flames reject your proposition.",
+        "hateYes": "Against our better judgment, we accept.",
+    
+        "afterPeace": "Peace cools our forges and allows us to rebuild.",
+        "tradeRequest": "Our molten heart brings a proposition to you.",
+    
+        "outerColor": [184, 134, 11],
+        "innerColor": [255, 255, 255],
+    
+        "favouredReligion": "Church of the Molten Core",
+        "uniqueName": "Ferran",
+        "uniques": [],
+        "cities": ["Magma Heart", "Ember Bastion", "Iron Vigil", "Cinder Cavern", "Pyroclasm Pinnacle"]
+    },
+    // Abyssiana
+    {
+        "name": "Abyssiana",
+        "leaderName": "Overlord Mariana",
+        "adjective": "Abyssian",
+        "preferredVictoryType": "Dominion",
+    
+        "startIntroPart1": "You are Overlord Mariana, ruler of the boundless depths,",
+        "startIntroPart2": "leader of the formidable Deepkin. Engulf the world under the crushing power of your domain.",
+    
+        "declaringWar": "The depths churn with the waves of war.",
+        "attacked": "We are the abyss, we will not be swallowed!",
+        "defeated": "The currents still... Abyssiana sinks...",
+        "introduction": "I am Mariana, Overlord of Abyssiana, where the deepest trenches lie.",
+    
+        "neutralHello": "The abyss acknowledges you.",
+        "neutralLetsHearIt": "The depths are ready to hear your words.",
+        "neutralNo": "The abyss rejects your proposition.",
+        "neutralYes": "The currents of agreement stir.",
+    
+        "hateHello": "Your presence disturbs the tranquil depths.",
+        "hateLetsHearIt": "Speak, but know the abyss may silence your words.",
+        "hateNo": "The depths reject your request.",
+        "hateYes": "Against the currents' judgment, we accept.",
+    
+        "afterPeace": "The abyss is tranquil after the turmoil of war.",
+        "tradeRequest": "The currents of the abyss carry a proposition to you.",
+    
+        "outerColor": [0, 0, 128],
+        "innerColor": [255, 255, 255],
+    
+        "favouredReligion": "Cult of the Crushing Depth",
+        "uniqueName": "Deepkin",
+        "uniques": [],
+        "cities": ["Abyssal Throne", "Deep Current", "Leviathan's Lair", "Mariana Trench", "Kraken's Hold"]
+    },
+
+    // CIty States Space
+    {
+        "name": "Galewind Isle",
+        "adjective": "Galewind",
+        "cityStateType": "Maritime",
+    
+        "declaringWar": "The winds of war howl across our isle.",
+        "attacked": "The storm of our defense will not be calmed!",
+        "defeated": "The winds... are silent.",
+    
+        "outerColor": [70, 130, 180],
+        "innerColor": [135, 206, 250],
+    
+        "cities": ["Galewind Haven"]
+    },
+    
+    {
+        "name": "Silversmith Enclave",
+        "adjective": "Silversmith",
+        "cityStateType": "Mercantile",
+    
+        "declaringWar": "The ring of our hammers will be the drumbeat of war.",
+        "attacked": "We are the forge, we will not be quenched!",
+        "defeated": "Our fires... have been extinguished.",
+    
+        "outerColor": [192, 192, 192],
+        "innerColor": [211, 211, 211],
+    
+        "cities": ["Silversmith Stronghold"]
+    },
+    
+    {
+        "name": "Verseloom",
+        "adjective": "Verseloomian",
+        "cityStateType": "Cultured",
+    
+        "declaringWar": "The symphony of war begins its mournful dirge.",
+        "attacked": "Our harmonious peace is disrupted, but we will not falter!",
+        "defeated": "The music... fades.",
+    
+        "outerColor": [255, 105, 180],
+        "innerColor": [255, 182, 193],
+    
+        "cities": ["Harmony Hall"]
+    },
+    
+    {
+        "name": "Ironhelm Fortress",
+        "adjective": "Ironhelm",
+        "cityStateType": "Militaristic",
+    
+        "declaringWar": "Our shields are up, our swords unsheathed. To war we march.",
+        "attacked": "We are the bastion, we will not crumble!",
+        "defeated": "Our fortresses... fall.",
+    
+        "outerColor": [105, 105, 105],
+        "innerColor": [169, 169, 169],
+    
+        "cities": ["Ironbastion"]
+    },
+    
+    {
+        "name": "Shrine of Serenity",
+        "adjective": "Serene",
+        "cityStateType": "Religious",
+    
+        "declaringWar": "We pray for guidance as we enter this time of strife.",
+        "attacked": "Our faith will not be shaken!",
+        "defeated": "Our prayers... remain unanswered.",
+    
+        "outerColor": [255, 223, 0],
+        "innerColor": [255, 255, 224],
+    
+        "cities": ["Temple's Grace"]
     }
 ]
