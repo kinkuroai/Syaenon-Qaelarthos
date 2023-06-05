@@ -339,7 +339,7 @@
         "defeated": "The winds... are silent.",
     
         "outerColor": [70, 130, 180],
-        "innerColor": [135, 206, 250],
+        "innerColor": [255, 255, 255],
     
         "cities": ["Galewind Haven"]
     },
@@ -353,8 +353,8 @@
         "attacked": "We are the forge, we will not be quenched!",
         "defeated": "Our fires... have been extinguished.",
     
-        "outerColor": [192, 192, 192],
-        "innerColor": [211, 211, 211],
+        "outerColor": [144, 144, 144],
+        "innerColor": [255, 255, 255],
     
         "cities": ["Silversmith Stronghold"]
     },
@@ -368,8 +368,8 @@
         "attacked": "Our harmonious peace is disrupted, but we will not falter!",
         "defeated": "The music... fades.",
     
-        "outerColor": [255, 105, 180],
-        "innerColor": [255, 182, 193],
+        "outerColor": [229, 94, 162],
+        "innerColor": [255, 255, 255],
     
         "cities": ["Harmony Hall"]
     },
@@ -384,7 +384,7 @@
         "defeated": "Our fortresses... fall.",
     
         "outerColor": [105, 105, 105],
-        "innerColor": [169, 169, 169],
+        "innerColor": [255, 255, 255],
     
         "cities": ["Ironbastion"]
     },
@@ -398,8 +398,8 @@
         "attacked": "Our faith will not be shaken!",
         "defeated": "Our prayers... remain unanswered.",
     
-        "outerColor": [255, 223, 0],
-        "innerColor": [255, 255, 224],
+        "outerColor": [165, 144, 0],
+        "innerColor": [255, 255, 255],
     
         "cities": ["Temple's Grace"]
     }
