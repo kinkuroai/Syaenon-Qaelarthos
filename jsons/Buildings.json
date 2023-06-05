@@ -11,7 +11,7 @@
 		"gold": 500,
 		"cityStrength": 5,
         "cost": 1,
-		"uniques": ["Indicates the capital city"],
+		"uniques": ["Indicates the capital city", "Unsellable"],
         "civilopediaText": [
             {
                 "text": "Syaenon Qaelarthos",
@@ -35,7 +35,7 @@
 		"gold": 500,
 		"cityStrength": 5,
         "cost": 1,
-		"uniques": ["Indicates the capital city"],
+		"uniques": ["Indicates the capital city", "Unsellable"],
         "civilopediaText": [
             {
                 "text": "Syaenon Qaelarthos",
@@ -59,7 +59,7 @@
 		"gold": 500,
 		"cityStrength": 5,
         "cost": 1,
-		"uniques": ["Indicates the capital city"],
+		"uniques": ["Indicates the capital city", "Unsellable"],
         "civilopediaText": [
             {
                 "text": "Syaenon Qaelarthos",
@@ -83,7 +83,7 @@
 		"gold": 500,
 		"cityStrength": 5,
         "cost": 1,
-		"uniques": ["Indicates the capital city"],
+		"uniques": ["Indicates the capital city", "Unsellable"],
         "civilopediaText": [
             {
                 "text": "Syaenon Qaelarthos",
