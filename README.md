@@ -10,7 +10,7 @@
 ## NOTES
 Originally, SQ was a __cheat mod__ called `HBS-Unciv` but decided to rework the mod and turn it into a ruleset. This mod __aims to create total chaos__ as civs will be made powerful enough to f* each other.
 
-__THIS IS A WORK IN PROGRESS__
+__THIS IS A WORK IN PROGRESS!__
 
 # FEATURES
 - Features different fantasy-based civs
